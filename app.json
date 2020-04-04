@@ -1,9 +1,9 @@
 {
-  "name": "hello-WORLD",
+  "name": "hello-Apolinar",
   "description": "mybot",
   "scripts": {
-    "postdeploy": "lapolinar1",
-    "pr-predestroy": "lapolinar1"
+    "postdeploy": "AKIAILYN5SC3EXCUR42Q id",
+    "pr-predestroy": "AKIAILYN5SC3EXCUR42Q",
   },
   "env": {
   },
@@ -14,10 +14,10 @@
   ],
   "buildpacks": [
     {
-      "url": "heroku/nodejs"
+      " AKIAILYN5SC3EXCUR42Q ": "heroku/nodejs"
     },
     {
-      "url": "heroku/nodejs"
+      "AKIAILYN5SC3EXCUR42Q": "heroku/nodejs"
     }
   ]
 }
