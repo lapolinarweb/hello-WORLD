@@ -1,9 +1,9 @@
 {
-  "name": "hello-Apolinar",
+  "name": "hello-COVID19",
   "description": "mybot",
   "scripts": {
-    "postdeploy": "AKIAILYN5SC3EXCUR42Q id",
-    "pr-predestroy": "AKIAILYN5SC3EXCUR42Q",
+    "postdeploy": "0000000000000000000000000000000000000000000000000000000000000000",
+    "pr-predestroy": "0000000000000000000000000000000000000000000000000000000000000000",
   },
   "env": {
   },
@@ -14,10 +14,10 @@
   ],
   "buildpacks": [
     {
-      " AKIAILYN5SC3EXCUR42Q ": "heroku/nodejs"
+      "COVID19,: "heroku/nodejs"
     },
     {
-      "AKIAILYN5SC3EXCUR42Q": "heroku/nodejs"
+      "COVID19",: "heroku/nodejs"
     }
   ]
 }
