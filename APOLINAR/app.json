@@ -14,10 +14,10 @@
   ],
   "buildpacks": [
     {
-      "COVID19,: "heroku/nodejs"
+      "COVID19": "heroku/nodejs"
     },
     {
-      "COVID19",: "heroku/nodejs"
+      "COVID19": "heroku/nodejs"
     }
   ]
 }
