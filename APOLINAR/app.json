@@ -15,10 +15,10 @@
   ],
   "buildpacks": [
     {
-      ".BITCLAVE": "heroku/nodejs/COVID19"
+      ".BITCLAVE": "heroku/nodejs/COVID19",
     },
     {
-      "BITCLAVE": "heroku/nodejs/COVID19"
+      "BITCLAVE": "heroku/nodejs/COVID19",
     }
   ]
 }
